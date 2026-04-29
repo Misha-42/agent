@@ -1,3 +1,3 @@
 @echo off
-cd /d "%~dp0"
+cd /d "C:\Users\user\AI_Agents"
 git push -u origin master
