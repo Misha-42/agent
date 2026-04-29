@@ -15,7 +15,7 @@ echo     "diff_add": "green",
 echo     "diff_remove": "blue",
 echo     "diff_chunk": "white",
 echo     "thinking": "white",
-echo     "separator": "blue",
+echo     "separator": "yellow",
 echo     "success": "green",
 echo     "highlight": "white",
 echo     "input": "green"
