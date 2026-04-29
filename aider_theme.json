@@ -1,0 +1,19 @@
+{
+    "user": "green",
+    "assistant": "white",
+    "tool": "white",
+    "instruction": "white",
+    "prompt": "green",
+    "info": "white",
+    "warning": "blue",
+    "error": "white",
+    "diff_header": "blue",
+    "diff_add": "green",
+    "diff_remove": "blue",
+    "diff_chunk": "white",
+    "thinking": "white",
+    "separator": "yellow",
+    "success": "green",
+    "highlight": "white",
+    "input": "green"
+}
